@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am an iOS and macOS developer. Now working on iOS for [teamwork](https://teamwork.com) and previously on macOS for [DxO](https://www.dxo.com/dxo-photolab/). I love Software Engineering, [Swift](https://swift.org), [Ruby](https://www.ruby-lang.org/en/), and [Vim](https://www.vim.org). I am also a believer in [Agile Software Development](http://agilemanifesto.org).
+
+I also run 🏃‍♂️ play guitar and read a lot.
+
+🌱 I’m currently learning French and playing the piano.
+
+See more on [my blog](https://josealobato.com).
+
 <!--
 **josealobato/josealobato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
