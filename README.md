@@ -2,7 +2,7 @@
 
 I am an iOS and macOS developer. Now working on iOS for [Teamwork](https://teamwork.com), previously on macOS for [DxO](https://www.dxo.com/dxo-photolab/) and 10 years on Embeeded Software at [Lear Coorporation](https://www.lear.com/technology). I love Software Engineering, [Swift](https://swift.org), [Ruby](https://www.ruby-lang.org/en/), [Python](https://www.python.org), and [Vim](https://www.vim.org). I am also a believer in [Agile Software Development](http://agilemanifesto.org) and [Extreme Programming](http://www.extremeprogramming.org/).
 
-I also run 🏃‍♂️ play guitar and [read a lot](http://josealobato.com/bookshelf/).
+I also [run](https://www.strava.com/athletes/22516984) 🏃‍♂️ play guitar and [read a lot](http://josealobato.com/bookshelf/).
 
 🌱 I’m currently learning French and playing the piano.
 
